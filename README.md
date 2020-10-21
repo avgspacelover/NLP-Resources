@@ -2,13 +2,11 @@
 
 ##### Introduction
 
-
-[Introduction to NLP](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72_
+[Introduction to NLP](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72_)
 
 [Complete NLP Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
 
-
-[NLP Playlist by Abhishek Thakur](https://www.youtube.com/playlist?list=PL98nY_tJQXZk-NeS9jqeH2iY4-IvoYbRC_
+[NLP Playlist by Abhishek Thakur](https://www.youtube.com/playlist?list=PL98nY_tJQXZk-NeS9jqeH2iY4-IvoYbRC_)
 
 ##### NLP Advanced Course
 
