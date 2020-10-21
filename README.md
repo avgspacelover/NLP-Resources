@@ -1,6 +1,6 @@
 # NLP-Resources
 
-##### Introduction
+#### Introduction
 
 [Introduction to NLP](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72_)
 
@@ -8,30 +8,36 @@
 
 [NLP Playlist by Abhishek Thakur](https://www.youtube.com/playlist?list=PL98nY_tJQXZk-NeS9jqeH2iY4-IvoYbRC_)
 
-##### NLP Advanced Course
+#### NLP Advanced Course
 
 [NLP with Deep Learning by Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
-##### Fake News Classification
+#### Fake News Classification
 
 [Video Tutorial by Utsav Aggarwal](https://youtu.be/xyq-zYr1cnI)
 
 [Github repository of code](https://github.com/ishantjuyal/Fake-News)
 
-##### Next Word Predictor Model
+#### Next Word Predictor Model
 
 [Video Tutorial by Utsav Aggarwal](https://youtu.be/Pe56OZ4aPds)
 
 [Lyrics Generator Model repository](https://github.com/ishantjuyal/Word-Prediction)
 
-##### Sequence to Sequence using RNN
+#### Sequence to Sequence using RNN
 
 [Blog Tutorial](https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras/)
 
 [English to German Translator Model code](https://github.com/ishantjuyal/Translator)
 
+#### Smart Reply Model(Autocomplete)
 
-##### Best Youtube Channels to follow
+[Gmail style smart compose](https://towardsdatascience.com/gmail-style-smart-compose-using-char-n-gram-language-models-a73c09550447)
+
+[Useful repo](https://github.com/yatindma/Automated-Response-Suggestion-for-Email)
+
+
+#### Best Youtube Channels to follow
 
 [Krish Naik](https://www.youtube.com/user/krishnaik06)
 
