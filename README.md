@@ -8,6 +8,8 @@
 
 [NLP Playlist by Abhishek Thakur](https://www.youtube.com/playlist?list=PL98nY_tJQXZk-NeS9jqeH2iY4-IvoYbRC_)
 
+[NLP Models with Deployment Playlist](https://www.youtube.com/playlist?list=PL3N9eeOlCrP6zMkHMxFJV4yXIsET5aWlc)
+
 #### NLP Advanced Course
 
 [NLP with Deep Learning by Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
