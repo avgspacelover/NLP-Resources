@@ -1,4 +1,4 @@
-# NLP-Resources
+# NLP Resources
 
 #### Introduction
 
