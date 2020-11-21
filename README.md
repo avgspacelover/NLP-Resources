@@ -1,5 +1,7 @@
 # NLP Resources
 
+![NLP Roadmap](https://media-exp1.licdn.com/dms/image/C4E22AQG3S4xJqp9efw/feedshare-shrink_1280-alternative/0/1605859658054?e=1608768000&v=beta&t=SNEiIdGDSAU2PcBXJYFKfrofnSYQIpisczN1Wz2WVQM)
+
 #### Introduction
 
 [Introduction to NLP](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72_)
