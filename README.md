@@ -4,7 +4,7 @@
 
 ![NLP Roadmap](https://media-exp1.licdn.com/dms/image/C4E22AQG3S4xJqp9efw/feedshare-shrink_1280-alternative/0/1605859658054?e=1608768000&v=beta&t=SNEiIdGDSAU2PcBXJYFKfrofnSYQIpisczN1Wz2WVQM)
 
-#### Introduction
+### Introduction
 
 [Introduction to NLP](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72_)
 
@@ -14,11 +14,11 @@
 
 [NLP Models with Deployment Playlist](https://www.youtube.com/playlist?list=PL3N9eeOlCrP6zMkHMxFJV4yXIsET5aWlc)
 
-#### NLP Advanced Course
+### NLP Advanced Course
 
 [NLP with Deep Learning by Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
-#### Fake News Classification
+### Fake News Classification
 
 [Video Tutorial by Utsav Aggarwal](https://youtu.be/xyq-zYr1cnI)
 
@@ -30,20 +30,20 @@
 
 [Lyrics Generator Model repository](https://github.com/ishantjuyal/Word-Prediction)
 
-#### Sequence to Sequence using RNN
+### Sequence to Sequence using RNN
 
 [Blog Tutorial](https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras/)
 
 [English to German Translator Model code](https://github.com/ishantjuyal/Translator)
 
-#### Smart Reply Model(Autocomplete)
+### Smart Reply Model(Autocomplete)
 
 [Gmail style smart compose](https://towardsdatascience.com/gmail-style-smart-compose-using-char-n-gram-language-models-a73c09550447)
 
 [Useful repo](https://github.com/yatindma/Automated-Response-Suggestion-for-Email)
 
 
-#### Best Youtube Channels to follow
+### Best Youtube Channels to follow for NLP
 
 [Krish Naik](https://www.youtube.com/user/krishnaik06)
 
