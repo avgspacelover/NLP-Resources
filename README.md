@@ -1,8 +1,8 @@
 # NLP Resources
 
-[NLP Learning Path by Analytics Vidhya](https://www.analyticsvidhya.com/blog/2020/01/learning-path-nlp-2020/)
+You should first read this amazing article which provides a roadmap for anyone who wishes to start learning NLP. Then you can follow all the free resources given in the article and given below.
 
-![NLP Roadmap](https://media-exp1.licdn.com/dms/image/C4E22AQG3S4xJqp9efw/feedshare-shrink_1280-alternative/0/1605859658054?e=1608768000&v=beta&t=SNEiIdGDSAU2PcBXJYFKfrofnSYQIpisczN1Wz2WVQM)
+[NLP Learning Path by Analytics Vidhya](https://www.analyticsvidhya.com/blog/2020/01/learning-path-nlp-2020/)
 
 ### Introduction
 
