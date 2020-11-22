@@ -1,10 +1,12 @@
 # NLP Resources
 
+The main aim of this repository is to make Machine Learning and Deep Learning education free and accessible to all without much hustle. All the resources that are selected are there because of the personal experience of the members of Crework with those free resources. The material is arranged in a specific order so that you don't have to go anywhere else and ask "How to get started with NLP?"
+
 You should first read this amazing article which provides a roadmap for anyone who wishes to start learning NLP. Then you can follow all the free resources given in the article and given below.
 
 [NLP Learning Path by Analytics Vidhya](https://www.analyticsvidhya.com/blog/2020/01/learning-path-nlp-2020/)
 
-### Introduction
+#### Introduction
 
 [Introduction to NLP](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72_)
 
@@ -14,36 +16,35 @@ You should first read this amazing article which provides a roadmap for anyone w
 
 [NLP Models with Deployment Playlist](https://www.youtube.com/playlist?list=PL3N9eeOlCrP6zMkHMxFJV4yXIsET5aWlc)
 
-### NLP Advanced Course
+#### NLP Advanced Course
 
 [NLP with Deep Learning by Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
-### Fake News Classification
+#### Text Classification
 
-[Video Tutorial by Utsav Aggarwal](https://youtu.be/xyq-zYr1cnI)
+[Fake News Classification Video Tutorial by Utsav Aggarwal](https://youtu.be/xyq-zYr1cnI)
 
 [Github repository of code](https://github.com/ishantjuyal/Fake-News)
 
-#### Next Word Predictor Model
+#### Language Model
 
-[Video Tutorial by Utsav Aggarwal](https://youtu.be/Pe56OZ4aPds)
+[Next Word Predictor Model Video Tutorial by Utsav Aggarwal](https://youtu.be/Pe56OZ4aPds)
 
 [Lyrics Generator Model repository](https://github.com/ishantjuyal/Word-Prediction)
 
-### Sequence to Sequence using RNN
+#### Smart Reply Model(Autocomplete) using Encoder-Decoder
 
-[Blog Tutorial](https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras/)
-
-[English to German Translator Model code](https://github.com/ishantjuyal/Translator)
-
-### Smart Reply Model(Autocomplete)
-
-[Gmail style smart compose](https://towardsdatascience.com/gmail-style-smart-compose-using-char-n-gram-language-models-a73c09550447)
+[Gmail Style Smart Reply](https://towardsdatascience.com/gmail-style-smart-compose-using-char-n-gram-language-models-a73c09550447)
 
 [Useful repo](https://github.com/yatindma/Automated-Response-Suggestion-for-Email)
 
+#### Machine TranslationTranslation using RNN
 
-### Best Youtube Channels to follow for NLP
+[Machine Translation Blog Tutorial](https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras/)
+
+[English to German Translator Model code](https://github.com/ishantjuyal/Translator)
+
+#### Best Youtube Channels to follow for NLP
 
 [Krish Naik](https://www.youtube.com/user/krishnaik06)
 
