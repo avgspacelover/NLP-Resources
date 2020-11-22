@@ -2,6 +2,8 @@
 
 The main aim of this repository is to make Machine Learning and Deep Learning education free and accessible to all without much hustle. All the resources that are selected are there because of the personal experience of the members of Crework with those free resources. The material is arranged in a specific order so that you don't have to go anywhere else and ask "How to get started with NLP?"
 
+### NLP Roadmap
+
 You should first read this amazing article which provides a roadmap for anyone who wishes to start learning NLP. Then you can follow all the free resources given in the article and given below.
 
 [NLP Learning Path by Analytics Vidhya](https://www.analyticsvidhya.com/blog/2020/01/learning-path-nlp-2020/)
@@ -19,6 +21,8 @@ You should first read this amazing article which provides a roadmap for anyone w
 #### NLP Advanced Course
 
 [NLP with Deep Learning by Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+
+[Lecture Notes, Slides and Assignments](https://github.com/ishantjuyal/CS224N-NLP-Stanford)
 
 #### Text Classification
 
