@@ -8,21 +8,23 @@ You should first read this amazing article which provides a roadmap for anyone w
 
 [NLP Learning Path by Analytics Vidhya](https://www.analyticsvidhya.com/blog/2020/01/learning-path-nlp-2020/)
 
+### Learning Basics and Theory
+
 #### Introduction
 
 [Introduction to NLP](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
 
 [Complete NLP Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
 
-[NLP Playlist by Abhishek Thakur](https://www.youtube.com/playlist?list=PL98nY_tJQXZk-NeS9jqeH2iY4-IvoYbRC_)
-
 [NLP Models with Deployment Playlist](https://www.youtube.com/playlist?list=PL3N9eeOlCrP6zMkHMxFJV4yXIsET5aWlc)
 
-#### NLP Advanced Course
+#### NLP Advanced Course (Most Important, highly recommended)
 
 [NLP with Deep Learning by Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
 [Lecture Notes, Slides and Assignments](https://github.com/ishantjuyal/CS224N-NLP-Stanford)
+
+### Learning with Projects
 
 #### Text Classification
 
@@ -30,7 +32,7 @@ You should first read this amazing article which provides a roadmap for anyone w
 
 [Github repository of code](https://github.com/ishantjuyal/Fake-News)
 
-#### Language Model
+#### Machine Language Model
 
 [Next Word Predictor Model Video Tutorial by Utsav Aggarwal](https://youtu.be/Pe56OZ4aPds)
 
@@ -42,7 +44,7 @@ You should first read this amazing article which provides a roadmap for anyone w
 
 [Useful repo](https://github.com/yatindma/Automated-Response-Suggestion-for-Email)
 
-#### Machine TranslationTranslation using RNN
+#### Machine Translation using RNN
 
 [Machine Translation Blog Tutorial](https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras/)
 
