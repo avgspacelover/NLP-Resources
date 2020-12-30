@@ -24,6 +24,10 @@ You should first read this amazing article which provides a roadmap for anyone w
 
 [Lecture Notes, Slides and Assignments](https://github.com/ishantjuyal/CS224N-NLP-Stanford)
 
+#### Books you can follow along
+
+[Speech and Language Processing by Jurafsky](https://github.com/Crework/NLP-Resources/blob/main/Books/Speech%20and%20Language%20Processing.pdf)
+
 ### Learning with Projects
 
 #### Text Classification
